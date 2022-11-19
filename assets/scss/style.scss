@@ -1,0 +1,62 @@
+body{
+  position: relative;
+    background-image: url('../img/bg.png');
+    background-size: cover;
+ padding: 100px;   
+}
+img{
+  width: 100%;
+}
+
+h6{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.img_container{
+  box-shadow: 0 0 9px 3px #f4dbb5;
+  background-color: white;
+  width: 50px;
+  position: absolute;
+}
+#switzerland{
+  transform: translateY(-20px);
+}
+
+.name-group {
+  position: absolute;
+  font-weight: bold;
+}
+#groupA {
+  top: 25px;
+  left: 35px;
+}
+#groupB {
+  top: 25px;
+  left: 1330px;
+}
+#groupC {
+  top: 220px;
+  left: 35px;
+}
+#groupD {
+  top: 220px;
+  left: 1330px;
+}
+#groupE {
+  top: 410px;
+  left: 35px;
+}
+#groupF {
+  top: 410px;
+  left: 1330px;
+}
+#groupG {
+  top: 600px;
+  left: 35px;
+}
+#groupH {
+  top: 600px;
+  left: 1330px;
+}
