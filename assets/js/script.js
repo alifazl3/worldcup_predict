@@ -294,9 +294,9 @@ if (flag!==undefined){
     flag.remove();
 }
     let img_container = document.createElement("div");
-    img_container.className = "img_container l6";
+    img_container.className = "champion l6";
     img_container.style.top = "410px";
-    img_container.style.left = "690px";
+    img_container.style.left = "675px";
 
     let img = document.createElement("img");
     img.src = "assets/img/flag/" + cname + ".png";

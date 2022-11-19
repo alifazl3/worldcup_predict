@@ -33,6 +33,23 @@ h6 {
   font-weight: bold;
 }
 
+.champion {
+  width: 50px;
+  position: absolute;
+}
+
+.champion img {
+  width: 150%;
+  -webkit-box-shadow: 0 0 20px 15px #ffcf86;
+          box-shadow: 0 0 20px 15px #ffcf86;
+}
+
+.champion h6 {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 7px;
+}
+
 #groupA {
   top: 25px;
   left: 35px;
